@@ -8,7 +8,7 @@ https://codemyui.com/
 
 
 
-***Android Stuff
+Android Stuff
 ===================
 
 Exploring Android
@@ -20,7 +20,7 @@ Arduino Speaker
 https://diyhacking.com/arduino-speaker/
 
 
-***Traffic Tools
+Traffic Tools
 ===================
 Answer the Public
 http://answerthepublic.com
