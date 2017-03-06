@@ -7,6 +7,8 @@ Code My UI
 
 https://codemyui.com/
 
+<a href="https://github.com/jthurston/Web-Development-Tools/blob/master/ide.md">IDE Page</a>
+
 
 
 Android Stuff
