@@ -31,6 +31,10 @@ Benefits of integrating ServiceNow with GIT
 
 https://community.servicenow.com/thread/224468
 
+### ServiceNow Scripting
+
+http://wiki.servicenow.com/index.php?title=Script_in_ServiceNow#gsc.tab=0
+
 ### Others
 
 Hiding insert and insert and stay buttons on approvals
