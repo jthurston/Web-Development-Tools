@@ -40,3 +40,16 @@ Writing an AngularJS custom filter for Service Portal
 
 https://community.servicenow.com/community/develop/blog/2016/06/22/writing-a-angularjs-custom-filter-for-service-portal
 
+
+
+# Test for group membership
+Client Script
+<j:if test="${gs.getUser().isMemberOf('<sysid of group>')}">  
+		<div>Show me!</div>
+</j:if>  
+
+# Test for role
+Client Script
+<j:if test="${gs.hasRole('itil','admin')}">        
+  <li><a href="navpage.do" target="_blank"> Process User</a></li>
+</j:if>
