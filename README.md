@@ -2,14 +2,21 @@ Web-Development-Tools
 =====================
 
 This repository is to support links for tools that I have found to beneficial during my web development projects
+Need some help with Markdown? https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
 
-** Code My UI **
-'''bold'''
+### Code My UI
 
 https://codemyui.com/
 
 <a href="https://github.com/jthurston/Web-Development-Tools/blob/master/ide.md">IDE Page</a>
 
+### Microsoft Visual Studio Code
+
+https://code.visualstudio.com/
+
+### Atom
+
+https://atom.io/
 
 
 Android Stuff
