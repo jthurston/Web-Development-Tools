@@ -5,6 +5,7 @@ This repository is to support links for tools that I have found to beneficial du
 Need some help with Markdown? https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
 
 ### Code My UI
+Web Design Inspiration - HTML and CSS Snippets
 
 https://codemyui.com/
 
