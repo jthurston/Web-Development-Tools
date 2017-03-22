@@ -1,4 +1,5 @@
 ## ServiceNow Dump
+GIT Markdown help found here: https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
 
 ServiceNow Style Guide
 
