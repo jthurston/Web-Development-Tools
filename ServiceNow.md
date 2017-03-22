@@ -1,4 +1,8 @@
-## ServiceNow
+## ServiceNow Dump
+
+ServiceNow Style Guide
+
+http://styleguide.servicenow.com/#/resources/platform-ui-assets
 
 Scoped Applications and Client Scripts: A Primer
 
