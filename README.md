@@ -8,16 +8,8 @@ Need some help with Markdown? https://github.com/adam-p/markdown-here/wiki/Markd
 
 https://codemyui.com/
 
-<a href="https://github.com/jthurston/Web-Development-Tools/blob/master/ide.md">IDE Page</a>
-
-### Microsoft Visual Studio Code
-
-https://code.visualstudio.com/
-
-### Atom
-
-https://atom.io/
-
+### IDE or Code Text Editors
+<a href="https://github.com/jthurston/Web-Development-Tools/blob/master/ide.md">IDE Page (moved to it's own page)</a>
 
 Android Stuff
 ===================
