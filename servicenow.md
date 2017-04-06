@@ -35,6 +35,10 @@ https://community.servicenow.com/thread/224468
 
 http://wiki.servicenow.com/index.php?title=Script_in_ServiceNow#gsc.tab=0
 
+## Scoped Scripting
+
+http://wiki.servicenow.com/index.php?title=Scoped_Script_Logging#gsc.tab=0
+
 ### Others
 
 Hiding insert and insert and stay buttons on approvals
@@ -66,6 +70,40 @@ https://docs.servicenow.com/bundle/istanbul-servicenow-platform/page/build/servi
 Writing an AngularJS custom filter for Service Portal
 
 https://community.servicenow.com/community/develop/blog/2016/06/22/writing-a-angularjs-custom-filter-for-service-portal
+
+### Best Practices
+
+Client Script Best Practices
+
+http://wiki.servicenow.com/index.php?title=Client_Script_Best_Practices#gsc.tab=0
+
+### Popups/Alerts with UI pages
+
+https://community.servicenow.com/thread/216806
+
+Scripting Alert, Info, and Error Messages
+
+http://wiki.servicenow.com/index.php?title=Scripting_Alert,_Info,_and_Error_Messages#gsc.tab=0
+
+All users notification popup message (<<Used this)
+
+https://community.servicenow.com/thread/157592
+
+### Debugging
+
+Where is gs.debug()?
+
+https://community.servicenow.com/thread/241075
+
+How to properly debug.
+
+https://community.servicenow.com/message/957110?_ga=1.120582408.1658960535.1474482648#957110
+
+### Service Portal
+
+Unsupported features in Service Portal
+
+https://docs.servicenow.com/bundle/istanbul-servicenow-platform/page/build/service-portal/reference/unsupported-features-sp.html
 
 ### Code Snippets
 
