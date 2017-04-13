@@ -5,6 +5,28 @@ GIT Markdown help found here: https://github.com/adam-p/markdown-here/wiki/Markd
 
 http://styleguide.servicenow.com/#/resources/platform-ui-assets
 
+### Service Portal
+
+Setting up service portal redirection
+
+https://community.servicenow.com/community/service-automation-platform/blog/2017/04/05/setting-up-your-service-portal-redirection
+
+Search in Service Portal
+
+https://github.com/service-portal/search
+
+Configure Search in Service Portal
+
+https://docs.servicenow.com/bundle/istanbul-servicenow-platform/page/build/service-portal/concept/search-service-portal.html
+
+Service Portal Global Search (KBs, etc...)
+
+https://community.servicenow.com/thread/238768
+
+Login page on Service Portal
+
+https://community.servicenow.com/thread/243982
+
 ### Glide Queries
 
 Glide Query Examples
@@ -14,6 +36,12 @@ https://docs.servicenow.com/bundle/istanbul-servicenow-platform/page/script/serv
 Glide Query Cheat Sheet
 
 https://www.servicenowguru.com/scripting/gliderecord-query-cheat-sheet/
+
+### Glide Ajax
+
+Glide Ajax
+
+http://wiki.servicenow.com/index.php?title=GlideAjax#gsc.tab=0
 
 ### ServiceNow CookBook
 
@@ -40,6 +68,12 @@ http://wiki.servicenow.com/index.php?title=Script_in_ServiceNow#gsc.tab=0
 http://wiki.servicenow.com/index.php?title=Scoped_Script_Logging#gsc.tab=0
 
 ### Others
+
+Helsinki - 'more information' changed to 'preview'
+
+https://community.servicenow.com/thread/231170
+
+
 
 Hiding insert and insert and stay buttons on approvals
 
