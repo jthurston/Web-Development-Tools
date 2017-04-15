@@ -26,6 +26,9 @@ https://community.servicenow.com/thread/238768
 Login page on Service Portal
 
 https://community.servicenow.com/thread/243982
+### Custom Content Blocks!!!
+
+https://serviceportal.io/custom-content-block-types/
 
 ### Glide Queries
 
