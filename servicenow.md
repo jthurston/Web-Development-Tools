@@ -159,3 +159,16 @@ Client Script
   <li><a href="navpage.do" target="_blank"> Process User</a></li>
 </j:if>
 ```
+
+# iFrame Sizing
+'''javascript
+<script>
+  function resizeme(ifm) {
+  ifm.style.height = ifm.contentWindow.document.body.scrollHeight + 'px';
+  }
+</script>
+'''
+<iframe src="..." frameborder="0" scrolling="no" onload="resizeme(this)" /> //scrolling=0 if you don't want a slider in the iframe
+'''html
+
+'''
