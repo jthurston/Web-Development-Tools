@@ -13,7 +13,7 @@ https://codemyui.com/
 <a href="https://github.com/jthurston/Web-Development-Tools/blob/master/ide.md">IDE Page (moved to it's own page)</a>
 
 ### ServiceNow Stuff
-<a href="https://github.com/jthurston/Web-Development-Tools/blob/master/service_now.md">ServiceNow Page (moved to it's own page)</a>
+<a href="https://github.com/jthurston/Web-Development-Tools/blob/master/servicenow.md">ServiceNow Page</a>
 
 Android Stuff
 ===================
