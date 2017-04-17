@@ -161,14 +161,14 @@ Client Script
 ```
 
 # iFrame Sizing
-'''javascript
+```javascript
 <script>
   function resizeme(ifm) {
   ifm.style.height = ifm.contentWindow.document.body.scrollHeight + 'px';
   }
 </script>
-'''
-<iframe src="..." frameborder="0" scrolling="no" onload="resizeme(this)" /> //scrolling=0 if you don't want a slider in the iframe
-'''html
+```
 
-'''
+```html
+<iframe src="..." frameborder="0" scrolling="no" onload="resizeme(this)" /> //scrolling=0 if you don't want a slider in the iframe
+```
