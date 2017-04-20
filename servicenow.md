@@ -1,6 +1,11 @@
 ## ServiceNow Dump
 GIT Markdown help found here: https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
 
+### KnowledgeBase
+
+Custom knowledge base
+http://www.goranlundqvist.com/2016/02/having-knowledge-public-with-version-3.html
+
 ### ServiceNow Style Guide
 
 http://styleguide.servicenow.com/#/resources/platform-ui-assets
