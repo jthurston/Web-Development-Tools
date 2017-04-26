@@ -4,7 +4,18 @@ GIT Markdown help found here: https://github.com/adam-p/markdown-here/wiki/Markd
 ### KnowledgeBase
 
 Custom knowledge base
+
 http://www.goranlundqvist.com/2016/02/having-knowledge-public-with-version-3.html
+
+Creating a Knowledge Search Homepage Widget
+
+https://www.servicenowguru.com/system-ui/creating-knowledge-search-homepage-widget/
+
+Link to Knowledge Category
+
+https://express.servicenow.com/support/forums/topic/link-to-knowledge-category/
+
+
 
 ### ServiceNow Style Guide
 
