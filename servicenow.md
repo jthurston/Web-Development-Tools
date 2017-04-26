@@ -61,6 +61,12 @@ Scoped Applications and Client Scripts: A Primer
 
 https://community.servicenow.com/community/develop/blog/2015/10/01/scoped-applications-and-client-scripts-a-primer
 
+### JELLY
+
+Jelly Cheat Sheet ***
+
+http://snaug.com/?page_id=39
+
 ### GIT
 
 Benefits of integrating ServiceNow with GIT
