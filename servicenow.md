@@ -1,6 +1,10 @@
 ## ServiceNow Dump
 GIT Markdown help found here: https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
 
+### ServiceNow On Demand Library
+
+https://community.servicenow.com/community/on-demand-library
+
 ### KnowledgeBase
 
 Custom knowledge base
