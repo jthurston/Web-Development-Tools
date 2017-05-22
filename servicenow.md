@@ -198,35 +198,20 @@ Client Script
 ```html
 <iframe src="..." frameborder="0" scrolling="no" onload="resizeme(this)" /> //scrolling=0 if you don't want a slider in the iframe
 ```
-Studio : Keyboard Shortcuts
 
-(Windows: Use Ctrl ey instead of Cmd)
+# Studio : Keyboard Shortcuts
 
-Help
-Cmd+H
+(Windows: Use Ctrl key instead of Cmd)
 
-Toggle Full Screen
-Ctrl+M
-
-Start Searching
-Cmd+F
-
-Find Next
-Cmd+G
-
-Find Previous
-Cmd+Shift+G
-
-Replace Cmd+E
-
-Replace All
-Cmd+;
-
-Toggle Comment
-Cmd+/
-
-Scripting Assistance
-Ctr+Space
-
-Show Description
-Cmd+J
+| ShortCut        | Command       |
+| --------------- |:-------------:|
+| Cmd + H         | Help |
+| Ctrl+M          | Toggle Full Screen |
+| Cmd+F           | Start Searching |
+| Cmd+G           | Find Next |
+| Cmd+Shift+G     | Find Previous |
+| Cmd+E           | Replace  |
+| Cmd+;             | Replace All |
+| Cmd+/             | Toggle Comment |
+| Ctrl+Space        | Scripting Assistance |
+| Show Description  | Cmd+J |
