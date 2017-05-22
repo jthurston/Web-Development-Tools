@@ -155,6 +155,7 @@ https://community.servicenow.com/community/develop/blog/2016/06/22/writing-a-ang
 
 ## Portal server side utilities
 | API | PURPOSE |
+| ----------- | -------------------- |
 | $SP | Server-side only utility. Can be used for example to get parameters from the URL, get the glide record for the current portal. See documentation for a list of available functions. |
 | console (Browser) | Powerful utility available in both client and server. Can we use to log debug messages.  |
 
