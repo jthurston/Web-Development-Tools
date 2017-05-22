@@ -204,7 +204,7 @@ Client Script
 (Windows: Use Ctrl key instead of Cmd)
 
 | ShortCut        | Command       |
-| --------------- |:-------------:|
+| --------------- | ------------- |
 | Cmd+H           | Help |
 | Ctrl+M          | Toggle Full Screen |
 | Cmd+F           | Start Searching |
