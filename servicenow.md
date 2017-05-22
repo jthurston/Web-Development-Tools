@@ -168,7 +168,71 @@ Unsupported features in Service Portal
 
 https://docs.servicenow.com/bundle/istanbul-servicenow-platform/page/build/service-portal/reference/unsupported-features-sp.html
 
-### Code Snippets
+### APIs/Code Snippets
+
+# Create a new record in a table
+```
+var grIncident = new GlideRecord('incident');
+grIncident.newRecord();
+grIncident.short_description = 'Hello from the ThirstyMan';
+grIncident.insert();
+```
+
+# Get a record by ID
+```
+var gr = new GlideRecord('incident');
+if(gr.get('sys_id number goes here')){
+    //Do something!
+    gs.log(gr.number + ': ' = gr.short_description);
+}
+```
+
+# Look up task records in new state
+```
+var gr = new GlideRecord('task');
+gr.addQuery('state', '1');
+gr.query();
+ while (gr.next()) {
+   //do something with each incident
+ }
+```
+
+# Count active records using GlideAggregate
+```
+var ga = new GlideAggregate('incident');
+ga.addQuery('active', 'true');
+ga.addAggregate('COUNT');
+gr.query();
+
+//This will hold the final count
+var count = 0;
+if (count.next()) {
+    count = ga.getAggregate('COUNT');
+}
+```
+
+# Convert a JS Oject to JSON
+```
+var jsonString = JSON.stringify(obj);
+```
+
+# Convert a JSON string to JS Object
+```
+var obj = JSON.parse(jsonString);
+```
+
+# Add OR conditions to a GlideRecord query
+```
+var gr = new GlideRecord('incident');
+var qc = gr.addQuery('state', '1');
+qc.addOrCondition('state', '2');
+qc.addOrCondition('state', '3');
+gr.query();
+
+while (gr.next()) {
+    //Do Somethnig
+}
+```
 
 # Test for group membership
 Client Script
