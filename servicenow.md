@@ -131,6 +131,33 @@ Writing an AngularJS custom filter for Service Portal
 
 https://community.servicenow.com/community/develop/blog/2016/06/22/writing-a-angularjs-custom-filter-for-service-portal
 
+## Common AngularJS Directives for usage in HTML Templates
+
+| DIRECTIVE   | PURPOSE              |
+| ----------- | -------------------- |
+| ng-model  | This directive binds an input, Select, text area (or custom form control) to the angular scope |
+| ng-repeat | Iterate through a data array for example to build a list of records or a table |
+| ng-show/ng-hide |  Evaluate an expression to determine if an element is shown |
+| ng-if | Evaluate an expression to determine if an element is shown it removes the element from the Dom, therefore more costly-but it will trigger a reevaluation of the widget code, which can come in handy |
+| ng-class  | Equivalent of the CSS element class for example be used to assign a CSS class conditionally |
+| ng-change | Triggered when the according element changes (e.g. ng-change="c.myChangeFunction()") |
+| ng-include | Fetches, compiles and includes an external HTML fragment, for example an angular template |
+| watch |  Angular JS record watcher-example used to do something on the client when the value changes on the server |
+
+## Service portal client-side utilities
+| API       | PURPOSE |
+| ----------- | -------------------- |
+| spUtil    | Client side only utility. Can be used for example to add info messages to the page-also required for record watch functionality. See documentation for more functions available |
+| addErrorMessage/addInfoMessage | Displays a notification message of different types (requires  spUtil to work - for example spUtil.addInfoMessage("Your order has been placed")) |
+| recordwatch |  Requires spUtil.  Well watch specific query on a defined table for updates, if an update happens you can respond to it in real time. Usage: spUtil.recordWatch($scope, "incident", "active=true"); |
+| rootScope | The root scope element will for example let you broadcast an event to the root scope of the page (allows communication between widgets). Usage: $rootScope.broadcastEvent("myEvent.name",parm1); |
+| console (Browser) | Powerful utility available in both client and server. Can we use to log debug messages of for example the data object.  |
+
+## Portal server side utilities
+| API | PURPOSE |
+| $SP | Server-side only utility. Can be used for example to get parameters from the URL, get the glide record for the current portal. See documentation for a list of available functions. |
+| console (Browser) | Powerful utility available in both client and server. Can we use to log debug messages.  |
+
 # Best Practices
 
 Client Script Best Practices
