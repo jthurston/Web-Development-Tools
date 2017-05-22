@@ -1,11 +1,11 @@
-## ServiceNow Dump
+# ServiceNow Dump
 GIT Markdown help found here: https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
 
-### ServiceNow On Demand Library
+## ServiceNow On Demand Library
 
 https://community.servicenow.com/community/on-demand-library
 
-### KnowledgeBase
+## KnowledgeBase
 
 Custom knowledge base
 
@@ -19,13 +19,11 @@ Link to Knowledge Category
 
 https://express.servicenow.com/support/forums/topic/link-to-knowledge-category/
 
-
-
-### ServiceNow Style Guide
+## ServiceNow Style Guide
 
 http://styleguide.servicenow.com/#/resources/platform-ui-assets
 
-### Service Portal
+## Service Portal
 
 Setting up service portal redirection
 
@@ -46,11 +44,12 @@ https://community.servicenow.com/thread/238768
 Login page on Service Portal
 
 https://community.servicenow.com/thread/243982
-### Custom Content Blocks!!!
+
+## Custom Content Blocks!!!
 
 https://serviceportal.io/custom-content-block-types/
 
-### Glide Queries
+## Glide Queries
 
 Glide Query Examples
 
@@ -60,35 +59,35 @@ Glide Query Cheat Sheet
 
 https://www.servicenowguru.com/scripting/gliderecord-query-cheat-sheet/
 
-### Glide Ajax
+## Glide Ajax
 
 Glide Ajax
 
 http://wiki.servicenow.com/index.php?title=GlideAjax#gsc.tab=0
 
-### ServiceNow CookBook
+## ServiceNow CookBook
 
 http://servicenowcookbook.com/w/index.php/Main_Page
 
-### Scoped Applications
+## Scoped Applications
 
 Scoped Applications and Client Scripts: A Primer
 
 https://community.servicenow.com/community/develop/blog/2015/10/01/scoped-applications-and-client-scripts-a-primer
 
-### JELLY
+## JELLY
 
 Jelly Cheat Sheet ***
 
 http://snaug.com/?page_id=39
 
-### GIT
+## GIT
 
 Benefits of integrating ServiceNow with GIT
 
 https://community.servicenow.com/thread/224468
 
-### ServiceNow Scripting
+## ServiceNow Scripting
 
 http://wiki.servicenow.com/index.php?title=Script_in_ServiceNow#gsc.tab=0
 
@@ -96,13 +95,11 @@ http://wiki.servicenow.com/index.php?title=Script_in_ServiceNow#gsc.tab=0
 
 http://wiki.servicenow.com/index.php?title=Scoped_Script_Logging#gsc.tab=0
 
-### Others
+## Others
 
 Helsinki - 'more information' changed to 'preview'
 
 https://community.servicenow.com/thread/231170
-
-
 
 Hiding insert and insert and stay buttons on approvals
 
@@ -120,7 +117,7 @@ CMS Menu Item : can we have it Conditional?
 
 https://community.servicenow.com/thread/195308
 
-### Widgets
+## Widgets
 
 Creating an interactive United States Map
 
@@ -134,13 +131,13 @@ Writing an AngularJS custom filter for Service Portal
 
 https://community.servicenow.com/community/develop/blog/2016/06/22/writing-a-angularjs-custom-filter-for-service-portal
 
-### Best Practices
+# Best Practices
 
 Client Script Best Practices
 
 http://wiki.servicenow.com/index.php?title=Client_Script_Best_Practices#gsc.tab=0
 
-### Popups/Alerts with UI pages
+## Popups/Alerts with UI pages
 
 https://community.servicenow.com/thread/216806
 
@@ -152,7 +149,7 @@ All users notification popup message (<<Used this)
 
 https://community.servicenow.com/thread/157592
 
-### Debugging
+## Debugging
 
 Where is gs.debug()?
 
@@ -162,13 +159,13 @@ How to properly debug.
 
 https://community.servicenow.com/message/957110?_ga=1.120582408.1658960535.1474482648#957110
 
-### Service Portal
+## Service Portal
 
 Unsupported features in Service Portal
 
 https://docs.servicenow.com/bundle/istanbul-servicenow-platform/page/build/service-portal/reference/unsupported-features-sp.html
 
-### APIs/Code Snippets
+# APIs/Code Snippets
 
 ## Create a new record in a table
 ```
