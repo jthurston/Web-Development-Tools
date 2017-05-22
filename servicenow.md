@@ -170,7 +170,7 @@ https://docs.servicenow.com/bundle/istanbul-servicenow-platform/page/build/servi
 
 ### APIs/Code Snippets
 
-# Create a new record in a table
+## Create a new record in a table
 ```
 var grIncident = new GlideRecord('incident');
 grIncident.newRecord();
@@ -178,7 +178,7 @@ grIncident.short_description = 'Hello from the ThirstyMan';
 grIncident.insert();
 ```
 
-# Get a record by ID
+## Get a record by ID
 ```
 var gr = new GlideRecord('incident');
 if(gr.get('sys_id number goes here')){
@@ -187,7 +187,7 @@ if(gr.get('sys_id number goes here')){
 }
 ```
 
-# Look up task records in new state
+## Look up task records in new state
 ```
 var gr = new GlideRecord('task');
 gr.addQuery('state', '1');
@@ -197,7 +197,7 @@ gr.query();
  }
 ```
 
-# Count active records using GlideAggregate
+## Count active records using GlideAggregate
 ```
 var ga = new GlideAggregate('incident');
 ga.addQuery('active', 'true');
@@ -211,17 +211,17 @@ if (count.next()) {
 }
 ```
 
-# Convert a JS Oject to JSON
+## Convert a JS Oject to JSON
 ```
 var jsonString = JSON.stringify(obj);
 ```
 
-# Convert a JSON string to JS Object
+## Convert a JSON string to JS Object
 ```
 var obj = JSON.parse(jsonString);
 ```
 
-# Add OR conditions to a GlideRecord query
+## Add OR conditions to a GlideRecord query
 ```
 var gr = new GlideRecord('incident');
 var qc = gr.addQuery('state', '1');
@@ -234,7 +234,7 @@ while (gr.next()) {
 }
 ```
 
-# Test for group membership
+## Test for group membership
 Client Script
 ```javascript
 <j:if test="${gs.getUser().isMemberOf('<sysid of group>')}">  
@@ -242,7 +242,7 @@ Client Script
 </j:if>  
 ```
 
-# Test for role
+## Test for role
 Client Script
 ```javascript
 <j:if test="${gs.hasRole('itil','admin')}">        
@@ -250,7 +250,7 @@ Client Script
 </j:if>
 ```
 
-# iFrame Sizing
+## iFrame Sizing
 ```javascript
 <script>
   function resizeme(ifm) {
