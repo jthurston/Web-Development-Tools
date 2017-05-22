@@ -205,13 +205,13 @@ Client Script
 
 | ShortCut        | Command       |
 | --------------- |:-------------:|
-| Cmd + H         | Help |
+| Cmd+H           | Help |
 | Ctrl+M          | Toggle Full Screen |
 | Cmd+F           | Start Searching |
 | Cmd+G           | Find Next |
 | Cmd+Shift+G     | Find Previous |
 | Cmd+E           | Replace  |
-| Cmd+;             | Replace All |
-| Cmd+/             | Toggle Comment |
-| Ctrl+Space        | Scripting Assistance |
-| Show Description  | Cmd+J |
+| Cmd+;           | Replace All |
+| Cmd+/           | Toggle Comment |
+| Ctrl+Space      | Scripting Assistance |
+| Show Description| Cmd+J |
