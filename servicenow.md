@@ -288,6 +288,28 @@ Client Script
 <iframe src="..." frameborder="0" scrolling="no" onload="resizeme(this)" /> //scrolling=0 if you don't want a slider in the iframe
 ```
 
+## Change label on form with client script
+Found here: https://www.servicenowguru.com/system-ui/ui-scripts-system-ui/modifying-label-form-fields-client-scripts/
+```CLIENT SCRIPT
+    function onLoad() {
+   //Change the description label to 'My New Label' with bold red text
+   changeFieldLabel('description', 'My New Label', 'red', 'bold');
+}
+
+function changeFieldLabel(field, label, color, weight){
+   try{
+      var labelElement = $('label.' +  g_form.getControl(field).id);
+      labelElement.select('.label-text').each(function(elmt) {
+         elmt.innerHTML = label + ':';
+         if(color)
+            elmt.style.color = color;
+         if(weight)
+            elmt.style.fontWeight = weight;
+      });
+   }catch(e){};
+}
+```
+
 # Studio : Keyboard Shortcuts
 
 (Windows: Use Ctrl key instead of Cmd)
