@@ -290,8 +290,9 @@ Client Script
 
 ## Change label on form with client script
 Found here: https://www.servicenowguru.com/system-ui/ui-scripts-system-ui/modifying-label-form-fields-client-scripts/
-```CLIENT SCRIPT
-    function onLoad() {
+```javascript
+   //CLIENT SCRIPT
+   function onLoad() {
    //Change the description label to 'My New Label' with bold red text
    changeFieldLabel('description', 'My New Label', 'red', 'bold');
 }
