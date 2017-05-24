@@ -134,7 +134,7 @@ https://community.servicenow.com/community/develop/blog/2016/06/22/writing-a-ang
 ## Common AngularJS Directives for usage in HTML Templates
 
 | DIRECTIVE   | PURPOSE              |
-| ----------- | -------------------- |
+| ------------------ | -------------------- |
 | ng-model  | This directive binds an input, Select, text area (or custom form control) to the angular scope |
 | ng-repeat | Iterate through a data array for example to build a list of records or a table |
 | ng-show/ng-hide |  Evaluate an expression to determine if an element is shown |
