@@ -97,6 +97,10 @@ http://wiki.servicenow.com/index.php?title=Scoped_Script_Logging#gsc.tab=0
 
 ## Others
 
+ServiceNow Advanced Users Group
+
+http://snaug.com
+
 Helsinki - 'more information' changed to 'preview'
 
 https://community.servicenow.com/thread/231170
